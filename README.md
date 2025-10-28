@@ -145,13 +145,28 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
+
+
 ## 📞 Contact
 
-**Author:** Ravi Kumar Chinta  
+<p align="left">
+  <b>Author:</b> Ravi Kumar Chinta</b><br><br>
 
-📧 **Email:** [chintharavikumar9908@gmail.com](mailto:chintharavikumar9908@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/chinta-ravi-kumar-a0a763280](https://www.linkedin.com/in/chinta-ravi-kumar-a0a763280)  
-🗂️ **GitHub Repository:** [https://github.com/ravi-kumar-chinta/cyclone-montha-dashboard](https://github.com/ravi-kumar-chinta/cyclone-montha-dashboard)
+  <!-- Gmail -->
+  <a href="mailto:chintharavikumar9908@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-chintharavikumar9908%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a><br><br>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/chinta-ravi-kumar-a0a763280">
+    <img src="https://img.shields.io/badge/LinkedIn-Chinta%20Ravi%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
+  </a><br><br>
+
+  <!-- GitHub -->
+  <a href="https://github.com/ravi-kumar-chinta/cyclone-montha-dashboard">
+    <img src="https://img.shields.io/badge/GitHub-cyclone--montha--dashboard-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 
 ---
@@ -166,9 +181,11 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⚠️ Disclaimer
 
-> This project is created **strictly for educational and research purposes only**.  
-> It uses **simulated or public data** and should **not be used for any emergency decision-making, real-time forecasting, or misuse** of disaster information.  
-> The author is **not responsible for any improper use** or misinterpretation of the data or code.  
+> - This project is created strictly for **educational and research purposes only**.  
+> - It uses **simulated or publicly available data** — not live or official disaster data.  
+> - The dashboard **should not be used for emergency decision-making** or real-time forecasting.  
+> - The author **is not responsible** for any misuse, misinterpretation, or improper application of this project’s data or code.
+  
 
 ---
 
