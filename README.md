@@ -147,18 +147,11 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📞 Contact
 
-<p align="left">
-  <b>Author:</b> Ravi Kumar Chinta<br><br>
-  <a href="mailto:chintharavikumar9908@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chintharavikumar9908%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chinta-ravi-kumar-a0a763280">
-    <img src="https://img.shields.io/badge/LinkedIn-Chinta%20Ravi%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/ravi-kumar-chinta/cyclone-montha-dashboard">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+**Author:** Ravi Kumar Chinta  
+
+📧 **Email:** [chintharavikumar9908@gmail.com](mailto:chintharavikumar9908@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/chinta-ravi-kumar-a0a763280](https://www.linkedin.com/in/chinta-ravi-kumar-a0a763280)  
+🗂️ **GitHub Repository:** [https://github.com/ravi-kumar-chinta/cyclone-montha-dashboard](https://github.com/ravi-kumar-chinta/cyclone-montha-dashboard)
 
 
 ---
