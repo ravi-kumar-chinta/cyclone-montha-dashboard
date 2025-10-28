@@ -149,7 +149,7 @@ Contributions, issues, and feature requests are welcome!
 <b>Author:</b> Ravi Kumar Chinta  
 <br>
 
-| Platform | Contact |
+<!--| Platform | Contact |-->
 |-----------|----------|
 | <a href="mailto:chintharavikumar9908@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> | [chintharavikumar9908@gmail.com](mailto:chintharavikumar9908@gmail.com) |
 | <a href="https://www.linkedin.com/in/chinta-ravi-kumar-a0a763280"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a> | [linkedin.com/in/chinta-ravi-kumar](https://www.linkedin.com/in/chinta-ravi-kumar-a0a763280) |
