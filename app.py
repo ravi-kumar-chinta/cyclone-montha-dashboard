@@ -81,7 +81,7 @@ st.markdown(f"**Last Updated:** `{last_updated_time} (IST)`")
 st.sidebar.header("Dashboard Tools & Filters")
 
 # --- NEW: UI Settings (Dark Mode Toggle) ---
-st.sidebar.subheader("Settings")
+st.sidebar.subheader("🎨 UI Settings")
 # Use session state to remember the toggle's value
 if 'dark_mode' not in st.session_state:
     st.session_state.dark_mode = False # Default to light
@@ -305,12 +305,10 @@ else:
         fig_scatter.update_yaxes(title="Power Resumed (%)")
         st.plotly_chart(fig_scatter, use_container_width=True)
 
-    # --- RAW DATA TABLE ---
+    # --- RAW DATA TABLE (FIX APPLIED) ---
     with st.expander("View Full Raw Data for Filtered Districts"):
-        st.dataframe(df_filtered.style.background_gradient(
-            cmap="Reds", 
-            subset=['Total_Rainfall_mm', 'Max_WindSpeed_kmph']
-        ).background_gradient(
-            cmap="Greens",
-            subset=['Power_Resumed_%', 'Comms_Resumed_%']
-        ))
+        # This line is now fixed to avoid the 'matplotlib' error.
+        # It will display a standard table without the color gradients.
+        st.dataframe(df_filtered)
+
+
