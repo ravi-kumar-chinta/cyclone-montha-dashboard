@@ -145,26 +145,40 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-
-
 ## 📞 Contact
 
-<p align="left">
-  <b>Author:</b> Ravi Kumar Chinta</b><br><br>
 
-  <!-- Gmail -->
+
+<b>Author:</b> Ravi Kumar Chinta  
+<br><br>
+
+<!-- Gmail -->
+<p>
   <a href="mailto:chintharavikumar9908@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-chintharavikumar9908%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a><br><br>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:chintharavikumar9908@gmail.com">
+    chintharavikumar9908@gmail.com
+  </a>
+</p>
 
-  <!-- LinkedIn -->
+<!-- LinkedIn -->
+<p>
   <a href="https://www.linkedin.com/in/chinta-ravi-kumar-a0a763280">
-    <img src="https://img.shields.io/badge/LinkedIn-Chinta%20Ravi%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
-  </a><br><br>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chinta-ravi-kumar-a0a763280">
+    linkedin.com/in/chinta-ravi-kumar-a0a763280
+  </a>
+</p>
 
-  <!-- GitHub -->
+<!-- GitHub -->
+<p>
   <a href="https://github.com/ravi-kumar-chinta/cyclone-montha-dashboard">
-    <img src="https://img.shields.io/badge/GitHub-cyclone--montha--dashboard-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/ravi-kumar-chinta/cyclone-montha-dashboard">
+    github.com/ravi-kumar-chinta/cyclone-montha-dashboard
   </a>
 </p>
 
