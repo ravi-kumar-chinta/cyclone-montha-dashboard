@@ -13,7 +13,8 @@
 
 A **real-time, interactive dashboard** built with **Python** + **Streamlit** to track and analyse the impact of **Cyclone Montha** on 17 districts in **Andhra Pradesh**.
 
-![](C:\Users\hp\OneDrive\Desktop\Projects\Cyclone-Montha\banner.png)
+![Banner Image](/banner.png)
+
 
 ---
 
