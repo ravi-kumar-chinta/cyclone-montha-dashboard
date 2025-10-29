@@ -13,9 +13,6 @@
 
 A **real-time, interactive dashboard** built with **Python** + **Streamlit** to track and analyse the impact of **Cyclone Montha** on 17 districts in **Andhra Pradesh**.
 
-![Banner Image](/banner.png)
-
-
 ---
 
 ## 📍 Overview
@@ -24,6 +21,8 @@ This project was developed in response to **Cyclone Montha (October 2025)** to p
 The dashboard consolidates and visualizes key data — from storm intensity and evacuation numbers to the progress of relief and recovery efforts.
 
 The data used is **simulated**, based on real-world reports from the India Meteorological Department (IMD) and the Andhra Pradesh State Disaster Management Authority (APSDMA).
+
+![Banner Image](/banner.png)
 
 ---
 
